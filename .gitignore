@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.pkl
+workerpool.egg-info
+build
+dist
